@@ -1,0 +1,14 @@
+{
+    "name": "MMM-MLBStats",
+    "version": "1.0.0",
+    "description": "MagicMirror module for displaying MLB season stats.",
+    "main": "MMM-MLBStats.js",
+    "scripts": {
+        "start": "node node_helper.js"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    }
+}
