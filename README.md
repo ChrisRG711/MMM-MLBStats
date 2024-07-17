@@ -1,5 +1,7 @@
 # MMM-MLBStats
 
+Simple MagicMirror module to display various MLBStats, which ones are configurable and there are buttons built in to change what category is displayed
+
 Sample config file entry
 
 {
