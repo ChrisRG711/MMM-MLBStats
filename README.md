@@ -1,6 +1,8 @@
 # MMM-MLBStats
 
 Sample config file entry
+
+{
             module: "MMM-MLBStats",
             position: "middle_center",  // You can choose any position like "top_right", "bottom_left", etc.
             config: {
