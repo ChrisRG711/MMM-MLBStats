@@ -2,6 +2,9 @@
 
 Simple MagicMirror module to display various MLBStats, which ones are configurable and there are buttons built in to change what category is displayed
 
+![image](https://github.com/user-attachments/assets/3723db07-97ed-4290-99bb-9aeb056ab1a3)
+
+
 Sample config file entry
 
 {
